@@ -38,7 +38,7 @@ requirements.
 ```
 
 ```html
-<script src='jquery.latest.min'></script>
+<script src='jquery.latest.min.js'></script>
 <script src='dist/js/tree-fold.min.js'></script>
 ```
 
@@ -58,7 +58,7 @@ $('#container').treeFold({
 	closedClass: 'fa-plus', // class to toggle when folder is closed
 	onLastItem: function (row) {
 		var a = row.attr('data-link');
-        alert('Load me in a DIV via ajax: ' + a);
+		alert('Load me in a DIV via ajax: ' + a);
 		// Do whatever you want here, I make an ajax call...
 	}
 });
