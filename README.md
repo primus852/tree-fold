@@ -2,18 +2,15 @@
 
 Minimalistic but perfect treeview/folder plugin
 
-[![Travis CI](https://travis-ci.org/noraesae/perfect-scrollbar.svg?branch=master)](https://travis-ci.org/noraesae/perfect-scrollbar)
-
-
 ## Why tree-fold?
 
 I was working on a private project where I needed a simplistic way to view a folder like structure. Since I couldn't find one, I created my VERY FIRST plugin for jQuery.
 
 I hope you like it!
 
-## [Demo](http://primus852.github.com/tree-fold/)
+## [Demo](https://primus852.github.com/tree-fold/)
 
-[It's on the GitHub Pages](http://primus852.github.com/tree-fold/).
+[It's on the GitHub Pages](https://primus852.github.com/tree-fold/).
 
 ## Install
 
@@ -28,7 +25,7 @@ $ npm install tree-fold --save
 
 #### Manually
 
-You can download the latest stable version with download links [here](http://primus852.github.io/tree-fold/).
+You can download the latest stable version with download links [here](https://primus852.github.io/tree-fold/).
 You also can find all releases on [Releases](https://github.com/primus852/tree-fold/releases).
 
 ## How to use
