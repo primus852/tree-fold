@@ -1,0 +1,24 @@
+{
+  "name": "tree-fold",
+  "version": "0.0.1",
+  "description": "Minimalistic but perfect treeview/folder plugin",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/primus852/tree-fold.git"
+  },
+  "keywords": [
+    "treeview",
+    "folder",
+    "folderview"
+  ],
+  "author": "Torsten Wolter <findnibbler@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/primus852/tree-fold/issues"
+  },
+  "homepage": "https://github.com/primus852/tree-fold#readme"
+}
